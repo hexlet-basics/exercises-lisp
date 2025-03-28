@@ -1,0 +1,9 @@
+---
+
+version: '3'
+
+services:
+  exercises:
+    volumes:
+      # TODO: replace exercises-template with "exercises-<language>"
+      - ".:/exercises-template"
