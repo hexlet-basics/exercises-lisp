@@ -1,7 +1,7 @@
 
 # exercises-template
 
-[![Github Actions Status](../../workflows/Docker/badge.svg)](../../actions)
+[![Github Actions Status](https://github.com/hexlet-basics/exercises-lisp/actions/workflows/Docker.yml/badge.svg)](https://github.com/hexlet-basics/exercises-lisp/actions)
 
 ## Description
 
@@ -9,7 +9,7 @@ The template repository contains the exercise `Hello, World!` and the basic stru
 
 ## How to contribute
 
-* Discuss the project on Telegram: https://t.me/hexletcommunity/12
+- Discuss the project on Telegram: <https://t.me/hexletcommunity/12>
 
 ## Develop
 
